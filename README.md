@@ -1,4 +1,4 @@
-# `Hello world`
+## `Hello world`
 
 l'm web dev in thailend 🤓 👊
 
@@ -9,14 +9,16 @@ l'm web dev in thailend 🤓 👊
 
 </div>
 
+---
 
+<div style="display: flex; align-items: center; " >
 
-<div style="display: inline_block">
 <a href="https://www.facebook.com/profile.php?id=100019345741626" target="_blank">
-<img width= 50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg"></a>
+<img width= 50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg"></a> FACEBOOK
+
 </div>
 
 
 
 
- .
+ 
