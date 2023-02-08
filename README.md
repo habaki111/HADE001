@@ -11,14 +11,3 @@ l'm web dev in thailend 🤓 👊
 
 ---
 
-<div style="display: flex; align-items: center; " >
-
-<a href="https://www.facebook.com/profile.php?id=100019345741626" target="_blank">
-<img width= 50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg"></a> FACEBOOK
-
-</div>
-
-
-
-
- 
